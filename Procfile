@@ -1,0 +1,1 @@
+web: gunicorn blogapi_project.wsgi --log-file -
